@@ -1,6 +1,6 @@
 /** @format */
 
-import Rating from "@mui/material/rating";
+import Rating from "@mui/material/Rating";
 import CurrencyFormat from "../CurrencyFormat/CurrencyFormat";
 import style from "./Product.module.css";
 import PropTypes from "prop-types";
