@@ -147,7 +147,7 @@
 /** @format */
 import { useContext, useState } from "react";
 import LayOut from "../../components/LayOut/LayOut";
-import style from "./payment.module.css";
+import style from "./Payment.module.css";
 import { DataContext } from "../../components/DataProvider/DataProvider";
 import ProductCard from "../../components/Product/ProductCard";
 import { useStripe, useElements, CardElement } from "@stripe/react-stripe-js";
